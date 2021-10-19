@@ -3,16 +3,25 @@
 O básico do desafio foi realizado com sucesso, com alguns tratamentos para serem feitos afim de melhorar a experiência do usuário e assertividade dos dados.
 
 Para suporte na criação foi utilizado as seguintes.
+
 ♦ Acompanhamento de tutorial do YouTube 
+    
     https://www.youtube.com/watch?v=h0sNAXE1ozo&t=345s
+    
     https://www.youtube.com/watch?v=aJR7f45dBNs&t=881s
+    
     https://www.youtube.com/watch?v=szXPNFjVKzI
+    
     https://www.youtube.com/watch?v=95sAtAareR8&t=2027s
+
     https://www.youtube.com/watch?v=_hytKpMc04E&t=4269s
 
 ♦ Discord - CollabCode
+
 ♦ Discord - Reactiflux (em Inglês)
+
 ♦ Discord - DevStar -BR
+
 ♦ WhatsApp - Grupo (JavaScript/Typescript)
 
 Além de outras dúvidas retiradas com colegas da área
